@@ -1,1 +1,1 @@
-bot: Python3 run.py
+bot: python3 run.py
