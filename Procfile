@@ -1,1 +1,1 @@
-bot: run runbot.bat
+bot: Python3 run.py
