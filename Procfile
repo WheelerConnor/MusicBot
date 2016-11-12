@@ -1,1 +1,1 @@
-bot: bash update_deps.bat
+bot: bash run.sh
