@@ -5,6 +5,4 @@ ffmpeg
 libopus-dev
 libffi-dev
 libsodium-dev
-PyNaCl
-aiohttp
-websockets
+libopus0
